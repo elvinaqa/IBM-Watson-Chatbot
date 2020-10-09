@@ -5,7 +5,6 @@ Conversational Customer Care Chatbot deployed on IBM Cloud
 
 ![Screenshot (318)](https://user-images.githubusercontent.com/57037068/95606420-5c39c380-0a6b-11eb-86a3-f7493e66c691.png)
 
-Next: https://us-south.assistant.watson.cloud.ibm.com/us-south/crn:v1:bluemix:public:conversation:us-south:a~2F98a76c61115849379b4cde23fba0240c:5d3e4703-27c7-4c52-aa01-f999f8afeef4::/skills
 ---
 
 copyright:
@@ -826,3 +825,6 @@ Now that you have built a more sophisticated version of the assistant, return to
 {: #tutorial-deploy}
 
 Now that you have built and tested your dialog skill, you can share it with customers. Deploy your skill by first connecting it to an assistant, and then deploying the assistant. There are several ways you can do this. See [Adding integrations](/docs/assistant?topic=assistant-deploy-integration-add) for more details.
+
+Next:
+https://us-south.assistant.watson.cloud.ibm.com/us-south/crn:v1:bluemix:public:conversation:us-south:a~2F98a76c61115849379b4cde23fba0240c:5d3e4703-27c7-4c52-aa01-f999f8afeef4::/skills
